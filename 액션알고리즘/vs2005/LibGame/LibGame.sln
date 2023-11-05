@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibGame", "LibGame\LibGame.vcproj", "{A151AA80-77FC-4A53-9510-71BD97494D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A151AA80-77FC-4A53-9510-71BD97494D26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A151AA80-77FC-4A53-9510-71BD97494D26}.Debug|Win32.Build.0 = Debug|Win32
+		{A151AA80-77FC-4A53-9510-71BD97494D26}.Release|Win32.ActiveCfg = Release|Win32
+		{A151AA80-77FC-4A53-9510-71BD97494D26}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
